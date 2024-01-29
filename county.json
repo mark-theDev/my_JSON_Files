@@ -1,0 +1,22 @@
+[
+    {
+        "county" : "Kericho",
+        "county_number" : 35,
+        "governor" : "Erick Mutai"
+    },
+    {
+        "county" : "Nairobi",
+        "county_number" : 47,
+        "governor" : "Johnson Sakaja"
+    },
+    {
+        "county" : "Nakuru",
+        "county_number" : 32,
+        "governor" : "Susan Kihika"
+    },
+    {
+        "county" : "Kericho",
+        "county_number" : 35,
+        "governor" : "Erick Mutai"
+    }
+]
